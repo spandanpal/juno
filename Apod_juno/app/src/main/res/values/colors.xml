@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="light_white">#f5f5f6</color>
+    <color name="white_trans">#99FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="light_gray">#d3d3d3</color>
+    <color name="orange">#FFA500</color>
+    <color name="red">#FF0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="success">#28a745</color>
+    <color name="info">#17a2b8</color>
+    <color name="warning">#ffc107</color>
+    <color name="danger">#dc3545</color>
+
+
+
+    <color name="sign_in_title_color">#485366</color>
+    <color name="login_page_background">#f6f6f6</color>
+    <color name="placeholder_color">#B9CCCF</color>
+    <color name="selected_text_color">#324A4C</color>
+    <color name="dashboard_background">#ffffff</color>
+    <color name="footer_background">#ffffff</color>
+    <color name="apply_loan_background">#89c261</color>
+    <color name="apply_loan_title_color">#207873</color>
+    <color name="my_active_loans_background">#1BADBD</color>
+    <color name="request_bank_change_color">#55265C63</color>
+    <color name="due_date_background">#FFBC3A</color>
+    <color name="amount_text_color">#1BADBD</color>
+    <color name="closed_text_color">#FF4949</color>
+    <color name="closed_date_text_color">#949494</color>
+    <color name="active_loans_text_color">#ffffff</color>
+    <color name="closed_loans_text_color">#324A4C</color>
+    <color name="notification_alert_title_color">#324A4C</color>
+    <color name="seek_bar_progress_tint_color">#46F2CF</color>
+    <color name="seek_bar_progress_background_tint_color">#E6E6E6</color>
+    <color name="seek_bar_thumb_color">#e9feda</color>
+    <color name="disabled_color">#e9ecef</color>
+    <color name="toggle_widget_checked_button_color">#efeff4</color>
+    <color name="bg_green">#17a2b8</color>
+
+    <color name="intro_page_heading_color">#212121</color>
+    <color name="intro_page_body_color">#909090</color>
+    <color name="backScreen_color">#f6f6f6</color>
+    <color name="colorSecondary">#85B96A</color>
+    <color name="colorGrey">#DFE4EA</color>
+    <color name="colorDarkBlue">#485564</color>
+    <color name="colorTransparent">#43000000</color>
+
+    <color name="colorFB">#3268A3</color>
+    <color name="colorFlipCart">#FFE300</color>
+    <color name="colorOLA">#DEE40F</color>
+    <color name="colorInShorts">#FF0073</color>
+    <color name="colorQuora">#DE2D34</color>
+    <color name="colorInstagam_and_Uber">#000000</color>
+    <color name="colorSnap">#F9FD12</color>
+    <color name="colorSwiggy">#E47B02</color>
+    <color name="colorZomato">#DE2D37</color>
+    <color name="colorAmazon">#E79004</color>
+    <color name="colorMyntra">#E1309B</color>
+    <color name="colorLN">#478EC6</color>
+    <color name="colorIndeed">#4777FE</color>
+    <color name="colorQuickRide">#419A39</color>
+    <color name="colorTOI">#DE2C01</color>
+    <color name="colorFundsIndia">#3567AF</color>
+    <color name="colorInvesTAP">#4777FE</color>
+    <color name="colorMyCams">#7F8683</color>
+    <color name="colorNaukri">#008CC8</color>
+    <color name="green">#85B96A</color>
+
+    <color name="colorNavigationMenuBar">#80c475</color>
+    <color name="colorProfileId">#57B890</color>
+    <color name="colorNavigationMenuBarGreen">#6fcb7c</color>
+    <color name="colorApplyNowBg">#75B26B</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
